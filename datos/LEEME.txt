@@ -1,0 +1,22 @@
+DATOS DE ParguelaPlus S.L. (Tarea 11)
+
+datos_parguelaplus.xlsx es la hoja de cálculo con la que la empresa trabajaba hasta ahora.
+Está en SU formato, no en el de Odoo: tendrás que preparar los ficheros de importación
+partiendo de las plantillas que descarga el propio importador de Odoo.
+
+Hojas:
+  Empresa                Datos fiscales y bancarios de PrimoPlus (se configuran a mano)
+  Clientes               Empresas y autónomos a los que vende
+  Proveedores            Empresas y profesionales a los que compra
+  Personas de contacto   Personas que trabajan en clientes y proveedores
+  Productos              Catálogo con precios, costes e IVA
+  Composición de packs   Productos que forman cada pack (tipo Combinación)
+  Facturas emitidas      Facturas de octubre a clientes, una fila por línea
+  Facturas recibidas     Facturas de octubre de proveedores, una fila por línea
+
+Las facturas se introducen a mano en Odoo (no por importación) en la Tarea 11.
+La columna Estado (cobros y pagos) se usará en la UD3.
+Todos los datos son ficticios. Los NIF tienen formato válido, pero no corresponden
+a ninguna empresa real conocida.
+
+Revisa los datos antes de cargarlos: como en cualquier empresa, puede haber algún error.
